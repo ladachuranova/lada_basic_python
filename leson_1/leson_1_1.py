@@ -18,11 +18,11 @@
 # print(type(b))
 
 
-a = c =  4
-b, d  = "Строка", "строка"
-
-print(id(a))
-print(id(b))
-print(id(c))
-print(id(d))
+# a = c =  4
+# b, d  = "Строка", "строка"
+#
+# print(id(a))
+# print(id(b))
+# print(id(c))
+# print(id(d))
 
